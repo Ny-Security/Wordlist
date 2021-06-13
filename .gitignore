@@ -1,0 +1,12 @@
+*~
+.*~
+*.swp*
+*.un*
+__py*
+*.wordlist.txt
+_wordlist.txt
+*.html
+*.pdf
+*.log
+wordlist.txt
+_wordlist.txt
